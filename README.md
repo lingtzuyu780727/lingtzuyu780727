@@ -9,3 +9,6 @@
   - Device management platform (as a PM)
 - ✉️ My linkedin: [linkedin.com/in/tzuyu-alex-ling/](https://www.linkedin.com/in/tzuyu-alex-ling/)
 - ✉️ My Mail: [lingtzuyu780727@gmail.com](lingtzuyu780727@gmail.com)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lingtzuyu780727&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
